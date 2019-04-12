@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Modelo de Amenazas",
+    "owner": "Eduardo Lino"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Threat Model",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Alberto Cardenas"
+  }
+}
